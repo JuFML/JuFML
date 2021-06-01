@@ -3,7 +3,7 @@
   <a href="https://github.com/JuFML">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jufml&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jufml&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="right" alt="Juliana-github" height="300" width="300" src="https://octodex.github.com/images/femalecodertocat.png">
+  <img align="right" alt="Juliana-github" height="250" width="250" src="https://octodex.github.com/images/femalecodertocat.png">
    
 <div>
 <div style="display: inline_block"><br>
