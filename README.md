@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Juliana Fernandez
+## Oiii! Eu sou a Juliana Fernandez, seja muito bem vindo(a)!
  <div>
   <a href="https://github.com/JuFML">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jufml&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
