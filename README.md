@@ -12,7 +12,6 @@
   <img align="center" alt="Juliana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="Juliana-Wordpress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="Juliana-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> 
-  <img align="center" alt="Juliana-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
 </div>
   
